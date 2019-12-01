@@ -6,6 +6,4 @@ The repo contains notes and important points regarding bitcoins. The notes are f
 # Udemy course: Bitcoin for beginers
 
 Like what i do, consider buying me a coffee at:  
-	|
 	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
-	|--- More Solutions coming soon :)
