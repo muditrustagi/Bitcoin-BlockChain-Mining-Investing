@@ -1,0 +1,38 @@
+# Author: Mudit Rustagi
+# 02 December 2019 (Monday)
+# 01:42
+# Udemy course: Bitcoin for beginers
+
+Like what i do, consider buying me a coffee at:  
+	|
+	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
+	|--- More Solutions coming soon :)
+
+===================================================================================
+Bitcoin Flow:
+
+|--- You make a transaction, and many such transactions get clustered together     |	to form a block, which will be added to the blockchain (Thus the name         |    blockchain, Chain of blocks).
+|
+|--- It is the job of all the miners to add this block to the chain, but before |    that they must verify it, and also bring to required hash form to add.
+|
+|--- How do they verify? 1mb of data(easy part)
+|
+|--- PROOF OF WORK? find a 64 bit Hexadecimal suitable hash, for the block. Hence  | 	the machine is measured using the hash it generates every second
+|
+|--- Difficulty level of hash is adjusted every 2016 blocks to maintain constant   |	mining
+|
+|--- For adding every block, the miners are awarded. Every block takes around 10 minutes to be done, and for every block ~ 12.5 BTC are shared. Only the first miner is awarded with the money.
+
+
+Bitcoin and scaling:
+|
+|--- With more users transacting, the data processed in 10 minute will be less than the data collected in 10 minute and thus transaction times will increase.
+|--- so either: 
+		|--- decrease the amount of data to verify
+		|--- increase the block size
+
+
+Segregated Witness: remove the signatures from a block, for it to store more transactions.
+Bitcoin cash: Another group, increased the block size and called it bitcoin cash
+
+-----------------------------------------------------------------------------------

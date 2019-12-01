@@ -1,0 +1,54 @@
+# Author: Mudit Rustagi
+# 01 December 2019 (Sunday)
+# 02:19
+# Udemy course: Bitcoin for beginers
+
+Like what i do, consider buying me a coffee at:  
+	|
+	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
+	|--- More Solutions coming soon :)
+
+===================================================================================
+Kinds of Mining:
+	|
+	|--- Solo
+	|--- Pool
+	|--- Cloud
+-----------------------------------------------------------------------------------
+Mining Hardwares
+	|
+	|--- CPU : intially was used, to mine 	decade without any use
+	|--- GPU : 50-100X CPU, not recommended
+	|--- FPGA : farms constructed, 5X GPU
+	|--- ASIC: 100X GPU 
+-----------------------------------------------------------------------------------
+Block Halving:
+	Halving the amount of coins received on mining a block every two years(almost)
+	Next in 2020
+	But the market was stable, which was not anticipated by anyone
+-----------------------------------------------------------------------------------
+Solo Vs Pool:
+	S: Control over operations,whole reward is taken---But Time takes a lot
+ 	P: More regularly getting reward often, more blocks are solved
+
+ 	Generally Pool mining is more helpful to begineers
+ ----------------------------------------------------------------------------------
+ Cloud Mining: is generally scams.
+ Not very helpful
+ ----------------------------------------------------------------------------------
+ BitMinter	->Join and Account	->Client	->Run and Setup
+ Calculate using your hash rate(in BitMinter), how much you are able to earn.
+ CGMiner (To Try it)
+ ----------------------------------------------------------------------------------
+ Installing bitminer.jnlp: the java webstart(javaws.exe) is required for this, which has been depreciated from java jdk 9. Thus you need to either install, appropiate jdk(preferred: jdk 8), and tgen install bitminer. Remember to addd the bitminer.com website to the java configuration.
+ ----------------------------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
+

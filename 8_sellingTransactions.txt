@@ -1,0 +1,44 @@
+# Author: Mudit Rustagi
+# 01 December 2019 (Sunday)
+# 15:57
+# Udemy course: Bitcoin for beginers
+
+Like what i do, consider buying me a coffee at:  
+	|
+	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
+	|--- More Solutions coming soon :)
+
+===================================================================================
+Direct Trades: directly with a person, 
+Exchange trade: through an exchange,
+Peer trade: trading sites
+-----------------------------------------------------------------------------------
+Do not buy and sell everyday
+Instead buy and hold, as it reaches 21 Million figure, value MAY increase
+Tips to Invest:
+	|
+	|--- Dollar Cost averaging strategy - spread out your investments
+	|--- Invest early, and as much as you can.
+	|--- Calculated risks
+	|--- Diversify your portfolio
+-----------------------------------------------------------------------------------
+To sell bitcoin locally:
+	Agree on the price, Meet in public
+	LocalBitcoins (for online transaction and review method) 
+
+For Exchange Trade:
+	Verify your identity
+	Exchange is the middle man
+	remove your BTC from exchanges often
+	
+NOTE:
+	|--- When liquidity issues faced by exchange firms
+	|--- Very easy to lose and steal bitcoins
+	|--- Exchanges are most prone to hackers
+	|
+	|--- Therefore remove your BTC from exchanges often.
+
+Peer to Peer Trading: 
+	|--- Middle-Man sites including amazon, etc
+	|--- Joins people who want to sell bitcoins, and people who want bitcoins
+===================================================================================

@@ -1,0 +1,27 @@
+# Author: Mudit Rustagi
+# 28 November 2019 (Thursday)
+# 17:32
+# Udemy course: Bitcoin for beginers
+
+Like what i do, consider buying me a coffee at:  
+	|
+	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
+	|--- More Solutions coming soon :)
+
+===================================================================================
+Open Source Software, 2009 
+Cryptography: storing data so only can be read by people you want it to
+	- no one else can read it
+	- no changes midway
+	- cant deny later, recorded
+	- authentication
+-----------------------------------------------------------------------------------
+Centralized network: majority of internet works using central hubs(servers)
+	E.g: Youtube
+Decentralized network: computers called peers, cheaper, faster, secure, transparent
+	E.g: Torrent
+-----------------------------------------------------------------------------------
+Smart Contracts: comes into effect, if preprogrammed things come true. Useful.
+-----------------------------------------------------------------------------------
+Users are anonymous but the transaction are not. So to maintain privacy, use such wallets and different addresses for transaction.
+Bitcoin White Paper- The rule book of bitcoin

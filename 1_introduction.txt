@@ -1,0 +1,21 @@
+# Author: Mudit Rustagi
+# 27 November 2019 (Wednesday)
+# 22:02
+# Udemy course: Bitcoin for beginers
+
+Like what i do, consider buying me a coffee at:  
+	|
+	|--- Bitcoin Wallet Address: 1VTNYLyKcRe7isUSfwgbAhxbvUQgPqJ95
+	|--- More Solutions coming soon :)
+
+===================================================================================
+Crytocurrency - Different from just DIGITAL CURRENCY, 
+Decentralized - no one controls the network
+Mining - using computer power 
+~ 21 Million bitcoins, but can be broken down easily
+-----------------------------------------------------------------------------------
+Transparent transactions, faster, transaction fees zero
+Non refundable bitcoins
+-----------------------------------------------------------------------------------
+Can be broken down to smaller denominations, - BTC, mBTC, uBTC, satoshi
+-----------------------------------------------------------------------------------
